@@ -9,4 +9,5 @@ Domain:Machine Learning
 
 PROJECT NAME:-Greenhouse-Gas-Emission-Prediction
 
-https://github.com/RGS-AI/AICTE_Internships/blob/main/2025/June_2025/GHG_Emission_Prediction/models/LR_model.pkl.zi
+[Uploading LR_model.pkl.zip…]()
+

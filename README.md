@@ -9,5 +9,6 @@ Domain:Machine Learning
 
 PROJECT NAME:-Greenhouse-Gas-Emission-Prediction
 
-[Uploading LR_model.pkl.zip…]()
+[LR_model.pkl.zip](https://github.com/user-attachments/files/21118373/LR_model.pkl.zip)
+
 
